@@ -1,6 +1,8 @@
-```
-# __Name__: Shabd Pathak	
-# __Roll Number__: 231B302	
+
+# __Name__: Shabd Pathak
+	
+# __Roll Number__: 231B302
+	
 # __Email__: 231b302@juetguna.in
 
 ## Lab Exercise 1
@@ -11,5 +13,3 @@ b = int(input("Enter second number: "))
 
 sum = a + b
 print(sum)
-
-```
