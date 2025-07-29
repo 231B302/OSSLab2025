@@ -1,2 +1,4 @@
-# OSSLab2025
-This repository contains lab exercises for the Open Source Software Lab - 2025
+## Lab Exercise 1
+Name: Shabd Pathak	
+Roll Number: 231B302	
+Email: 231b302@juetguna.in
